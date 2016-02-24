@@ -1,2 +1,0 @@
-# eymgroup
-EYM Group
